@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-live2dviewer"
+description = "a comfyui node for viewing Live2D model"
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/AIFSH/ComfyUI-Live2DViewer"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-Live2DViewer"
+Icon = ""
